@@ -70,5 +70,7 @@ Este projeto foi desenvolvido por Débora Ferreira
 
 # Badge
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/97f6efe5-858c-407a-be97-8eb270973f18">
   
+
 </p>
