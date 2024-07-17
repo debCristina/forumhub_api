@@ -1,10 +1,4 @@
 <h1 align="center">FórumHub</h1>
-<p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/Maven-3.6.3-blue">
-<img alt="Static Badge" src="https://img.shields.io/badge/Spring%20Boot-2.4.5-green">
-<img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-13-blue">
-<img alt="Static Badge" src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-green">
-</p>
 
 # Descrição
 Este projeto Java utiliza Spring Boot para criar uma api para um fórum interativo, permitindo aos usuários realizar diversas operações como criação de tópicos, busca por tópicos existentes, atualização e exclusão de tópicos. Utiliza um banco de dados MySQL para armazenar informações dos usuários, tópicos e cursos relacionados, além de implementar operações completas de CRUD (Create, Read, Update, Delete) para gerenciar tópicos e outras entidades conforme necessário.
@@ -56,11 +50,10 @@ bash
    ```
    
 - Configure as variáveis de ambiente ${DB_HOST}, ${DB_USER} e ${DB_PASSWORD} pelos valores específicos do seu ambiente de desenvolvimento.
-- Abra o projeto em sua IDE java preferida.
-- Execute a aplicação e aproveite as funcionalidades disponíveis.
+- Abra o projeto em sua IDE java preferida e execute.
 
 # Minha experiência
-Desenvolver este projeto foi um desafio muito enriquecedor, onde pude aplicar e aprimorar significativamente minhas habilidades em Java. Esta jornada me proporcionou uma excelente oportunidade para explorar profundamente o desenvolvimento utilizando Spring Framework, além de me familiarizar com conceitos avançados de integração de banco de dados e APIs externas como a Gutendex. Concluir esta etapa me deixa muito satisfeita, e estou motivada a continuar explorando os recursos disponíveis para continuar aprimorando minhas habilidades como desenvolvedora.
+Desenvolver este projeto foi um desafio muito enriquecedor, onde pude aplicar e aprimorar significativamente minhas habilidades em Java. Esta jornada me proporcionou uma excelente oportunidade para explorar profundamente o desenvolvimento utilizando Spring Framework, além de me familiarizar com conceitos avançados de integração de banco de dados. Concluir esta etapa me deixa muito satisfeita, e estou motivada a continuar explorando os recursos disponíveis para continuar aprimorando minhas habilidades como desenvolvedora.
 
 # Contribuíções
 Contribuíções são sempre bem-vindas para enriquecer ainda mais o projeto.
@@ -77,5 +70,5 @@ Este projeto foi desenvolvido por Débora Ferreira
 
 # Badge
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/28161ad0-feda-4212-89ea-8c58053d4e35">
+  
 </p>
